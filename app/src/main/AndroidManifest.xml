@@ -16,7 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Count"></activity>
+        <activity android:name=".Count" />
+        <activity android:name=".Tap"></activity>
     </application>
 
 </manifest>
